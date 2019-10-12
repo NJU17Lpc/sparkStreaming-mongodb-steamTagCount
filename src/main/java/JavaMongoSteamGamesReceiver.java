@@ -19,8 +19,8 @@ import static java.lang.Thread.sleep;
 public class JavaMongoSteamGamesReceiver extends Receiver<String> {
 
     private static int count=0;
-    String databaseName = null;
-    String collectionName = null;
+    String databaseName = "steam";
+    String collectionName = "steam";
 
     public JavaMongoSteamGamesReceiver(String databaseName_, String collectionName_){
         super(StorageLevel.MEMORY_AND_DISK_2());
@@ -66,9 +66,9 @@ public class JavaMongoSteamGamesReceiver extends Receiver<String> {
                     //System.out.println(tagsString);
                 }
                 count++;
-                if(count==20){
+                if(count==100){
                     count = 0;
-                    sleep(3000);
+                    sleep(100);
                 }
 
             }

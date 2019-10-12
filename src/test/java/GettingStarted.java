@@ -20,7 +20,7 @@ public final class GettingStarted {
         JavaStreamingContext ssc = new JavaStreamingContext(sc.getConf(), new Duration(500));
 
         JavaReceiverInputDStream<String> lines = ssc.receiverStream(
-                new JavaMongoSteamGamesReceiver("ScrapyChina", "steamGames"));
+                new JavaMongoSteamGamesReceiver("steam", "steam"));
 
         JavaDStream<String> words = lines.flatMap(x -> Arrays.asList(x.split(" ")).iterator());
         JavaPairDStream<String, Integer> pairs = words.mapToPair(s -> new Tuple2<>(s,1));

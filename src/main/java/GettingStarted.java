@@ -31,11 +31,11 @@ import static com.mongodb.client.model.Updates.*;
 public final class GettingStarted {
 
     public static void main(final String[] args) throws Exception {
-        String inDatabase = "ScrapyChina";
-        String inCollection = "steamGames";
-        String outAllDatabase = "ScrapyChina";
+        String inDatabase = "steam";
+        String inCollection = "steam";
+        String outAllDatabase = "steam";
         String outAllCollection = "streamResult";
-        String outPeriodDatabase = "ScrapyChina";
+        String outPeriodDatabase = "steam";
         String outPeriodCollection = "streamPeriodResult";
 
         SparkConf sparkConf = new SparkConf().setMaster("local[4]").setAppName("JavaCustomReceiver");
