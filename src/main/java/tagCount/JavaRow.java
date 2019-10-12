@@ -1,4 +1,4 @@
-import scala.Tuple2;
+package tagCount;
 
 public class JavaRow implements java.io.Serializable{
     private String tag;

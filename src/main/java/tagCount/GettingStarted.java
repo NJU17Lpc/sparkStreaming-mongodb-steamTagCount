@@ -1,4 +1,4 @@
-//package com.mongodb.spark_examples;
+package tagCount;//package com.mongodb.spark_examples;
 
 import com.mongodb.MongoClientSettings;
 import com.mongodb.client.*;
@@ -9,13 +9,11 @@ import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.Optional;
 import org.apache.spark.api.java.function.Function2;
 import org.apache.spark.streaming.Duration;
-import org.apache.spark.streaming.Durations;
 import org.apache.spark.streaming.api.java.JavaDStream;
 import org.apache.spark.streaming.api.java.JavaPairDStream;
 import org.apache.spark.streaming.api.java.JavaReceiverInputDStream;
 import org.apache.spark.streaming.api.java.JavaStreamingContext;
 
-import org.bson.Document;
 import org.bson.codecs.configuration.CodecRegistries;
 import org.bson.codecs.configuration.CodecRegistry;
 import org.bson.codecs.pojo.PojoCodecProvider;
@@ -23,9 +21,6 @@ import org.bson.conversions.Bson;
 import scala.Tuple2;
 import java.util.Arrays;
 import java.util.List;
-
-
-import static com.mongodb.client.model.Updates.*;
 
 
 public final class GettingStarted {
