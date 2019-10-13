@@ -68,7 +68,7 @@ public class JavaMongoSteamGamesReceiver extends Receiver<String> {
                 count++;
                 if(count==100){
                     count = 0;
-                    sleep(100);
+                    sleep(500);
                 }
 
             }

@@ -23,6 +23,7 @@ import scala.Tuple3;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
 
 import static com.mongodb.client.model.Filters.eq;
@@ -31,9 +32,9 @@ import static com.mongodb.client.model.Filters.eq;
 public final class GettingStarted {
 
     public static void main(final String[] args) throws Exception {
-        String inDatabase = "ScrapyChina";
-        String inCollection = "steamGames";
-        String outAllDatabase = "ScrapyChina";
+        String inDatabase = "steam";
+        String inCollection = "steam";
+        String outAllDatabase = "steam";
         String outAllCollection = "publisherTag";
 
 
