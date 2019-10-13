@@ -23,6 +23,7 @@ import scala.Tuple3;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
 
 import static com.mongodb.client.model.Filters.eq;

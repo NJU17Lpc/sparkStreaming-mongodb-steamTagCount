@@ -13,6 +13,8 @@ import org.bson.Document;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.mongodb.client.model.Filters.eq;
+import static com.mongodb.client.model.Filters.not;
 import static java.lang.Thread.sleep;
 
 public class JavaMongoSteamGamesReceiver extends Receiver<Row> {
@@ -50,7 +52,7 @@ public class JavaMongoSteamGamesReceiver extends Receiver<Row> {
             MongoCollection<Document> collection = database.getCollection("steamGames");
 
 
-            MongoCursor<Document> cursor = collection.find().projection(new Document("publisher",1).append("tags",1).append("_id",0)).iterator();
+            MongoCursor<Document> cursor = collection.find(not(eq("developer",""))).projection(new Document("publisher",1).append("tags",1).append("_id",0)).iterator();
 
             while(cursor.hasNext()){
 
