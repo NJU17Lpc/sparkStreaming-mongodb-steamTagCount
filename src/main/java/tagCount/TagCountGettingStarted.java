@@ -21,9 +21,14 @@ import org.bson.conversions.Bson;
 import scala.Tuple2;
 import java.util.Arrays;
 import java.util.List;
+import com.mongodb.client.*;
+import org.apache.spark.storage.StorageLevel;
+import org.apache.spark.streaming.receiver.Receiver;
+import org.bson.Document;
 
+import static java.lang.Thread.sleep;
 
-public final class GettingStarted {
+public final class TagCountGettingStarted {
 
     public static void main(final String[] args) throws Exception {
         String inDatabase = "steam";
@@ -124,4 +129,89 @@ class MongoUtil{
         return MongodbCollectionSingleton.getMongoClient().getDatabase(database).getCollection(collection, tClass)
                 .withCodecRegistry(codecRegistry);
     }
+}
+class JavaMongoSteamGamesReceiver extends Receiver<String> {
+
+    private static int count=0;
+    String databaseName = "steam";
+    String collectionName = "steam";
+
+    public JavaMongoSteamGamesReceiver(String databaseName_, String collectionName_){
+        super(StorageLevel.MEMORY_AND_DISK_2());
+        databaseName = databaseName_;
+        collectionName = collectionName_;
+    }
+
+    public static String parseTagString(Object document){
+
+        return document.toString().replaceAll("Document","").replaceAll("tags=","")
+                .replaceAll(",","").replaceAll("\\]","").replaceAll("\\}","")
+                .replaceAll("\\[","").replaceAll("\\{","");
+    }
+
+    public void onStart() {
+        // Start the thread that receives data over a connection
+        new Thread()  {
+            @Override public void run() {
+                receive();
+            }
+        }.start();
+    }
+
+    public void onStop() {
+        // There is nothing much to do as the thread calling receive()
+        // is designed to stop by itself if isStopped() returns false
+    }
+
+    private void receive() {
+
+        try {
+
+            MongoClient mongoClient = MongoClients.create();
+            MongoDatabase database = mongoClient.getDatabase(databaseName);
+            MongoCollection<Document> collection = database.getCollection(collectionName);
+
+            FindIterable iterable = collection.find().projection(new Document("tags",1).append("_id",0));
+            MongoCursor cursor = iterable.iterator();
+            while((!isStopped())&&cursor.hasNext()){
+                String tagsString = parseTagString(cursor.next());
+                if(!tagsString.equals("")){
+                    store(tagsString);
+                    //System.out.println(tagsString);
+                }
+                count++;
+                if(count==100){
+                    count = 0;
+                    sleep(500);
+                }
+
+            }
+
+        } catch (Throwable t) {
+            // restart if there is any other error
+            restart("Error receiving data", t);
+        }
+    }
+}
+class JavaRow implements java.io.Serializable{
+    private String tag;
+    private int count;
+
+    public String getTag(){
+        return tag;
+    }
+
+    public void setTag(String tag){
+        this.tag = tag;
+    }
+
+
+    public int getCount(){
+        return count;
+    }
+
+    public void setCount(int count){
+        this.count = count;
+    }
+
 }

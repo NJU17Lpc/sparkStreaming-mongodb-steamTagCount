@@ -2,236 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4e59d3-7da4-4572-b94e-a97426f8c021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-139/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-279/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-419/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-559/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-699/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-699/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-699/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-699/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-699/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-699/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/072693c8-9c79-48a7-bea7-77516a1743c5/rdd-839/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-139/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-279/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-419/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-559/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-699/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-839/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/24bdda1d-54d8-4403-95ed-b73a0599b208/rdd-979/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-13/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/5deaf9c3-b36f-46f2-b4e3-2b63c6fdd29b/rdd-27/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-139/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-279/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-419/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-559/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-699/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-839/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/..part-00000-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/..part-00001-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/..part-00002-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/..part-00003-attempt-0.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/.part-00000-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/.part-00001-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/.part-00002-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/8211f87b-3843-49f6-9aee-6d0c0e0308b7/rdd-979/.part-00003-attempt-0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951231022-1570951291022" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951291501-1570951351501" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951323035-1570951383035" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951352004-1570951412004" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951383501-1570951443501" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951412005-1570951472005" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951461054-1570951521054" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951472040-1570951532040" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951521502-1570951581502" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951532501-1570951592501" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951593209-1570951653209" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951646027-1570951706027" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951653506-1570951713506" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951706501-1570951766501" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951714003-1570951774003" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951766505-1570951826505" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951775127-1570951835127" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951827006-1570951887006" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951838208-1570951898208" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951887512-1570951947512" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951902675-1570951962675" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951948002-1570952008002" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570951967521-1570952027521" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570952008502-1570952068502" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570952032435-1570952092435" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570952544524-1570952604524" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570952605005-1570952665005" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570952747009-1570952807009" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570952821172-1570952881172" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570952975028-1570953035028" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570953039809-1570953099809" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570953099823-1570953159823" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570953160005-1570953220005" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1570953220810-1570953280810" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/developerTagCount/GettingStarted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/developerTagCount/JavaMongoSteamGamesReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/developerTagCount/JavaRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/developerTagCount/Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/developerTagCount/GettingStarted.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/developerTagCount/JavaMongoSteamGamesReceiver$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/developerTagCount/JavaMongoSteamGamesReceiver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/developerTagCount/JavaRow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/developerTagCount/MongoUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/developerTagCount/MongodbCollectionSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/developerTagCount/Row.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/publisherTagCount/GettingStarted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/publisherTagCount/GettingStarted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/publisherTagCount/JavaMongoSteamGamesReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/publisherTagCount/JavaMongoSteamGamesReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tagCount/JavaMongoSteamGamesReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tagCount/JavaMongoSteamGamesReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/publisherTagCount/GettingStarted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/publisherTagCount/GettingStarted.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/publisherTagCount/JavaMongoSteamGamesReceiver$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/publisherTagCount/JavaMongoSteamGamesReceiver$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/publisherTagCount/JavaMongoSteamGamesReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/publisherTagCount/JavaMongoSteamGamesReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/publisherTagCount/MongoUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/publisherTagCount/MongoUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/publisherTagCount/MongodbCollectionSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/publisherTagCount/MongodbCollectionSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tagCount/JavaMongoSteamGamesReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tagCount/JavaMongoSteamGamesReceiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/GettingStarted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GettingStarted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/developerTagCount/GettingStarted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/developerTagCount/DeveloperGettingStarted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/developerTagCount/JavaMongoSteamGamesReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/developerTagCount/JavaRow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/developerTagCount/Row.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/publisherTagCount/GettingStarted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/publisherTagCount/PublisherTagGettingStarted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/publisherTagCount/JavaMongoSteamGamesReceiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/publisherTagCount/JavaRow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/publisherTagCount/Row.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tagCount/171250632_林哲远_Streaming代码.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tagCount/GettingStarted1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tagCount/JavaMongoSteamGamesReceiver1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tagCount/JavaRow1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GettingStarted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GettingStarted.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -243,19 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tagCount/JavaMongoSteamGamesReceiver.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tagCount/TagCountGettingStarted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/JavaMongoSteamGamesReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+            <state relative-caret-position="218">
+              <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -263,20 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/JavaMongoSteamGamesReceiver.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/PublisherTagGettingStarted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+            <state relative-caret-position="218">
+              <caret line="148" column="6" selection-start-line="148" selection-start-column="6" selection-end-line="148" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/GettingStarted.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/DeveloperGettingStarted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="112" column="6" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+            <state relative-caret-position="390">
+              <caret line="252" selection-start-line="252" selection-end-line="252" />
             </state>
           </provider>
         </entry>
@@ -292,15 +66,19 @@
         <option value="$PROJECT_DIR$/src/test/java/GettingStarted.java" />
         <option value="$PROJECT_DIR$/src/main/java/GettingStarted.java" />
         <option value="$PROJECT_DIR$/src/main/java/JavaMongoSteamGamesReceiver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/publisherTagCount/GettingStarted.java" />
         <option value="$PROJECT_DIR$/src/main/java/developerTagCount/GettingStarted.java" />
         <option value="$PROJECT_DIR$/src/main/java/tagCount/JavaMongoSteamGamesReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/publisherTagCount/JavaMongoSteamGamesReceiver.java" />
         <option value="$PROJECT_DIR$/src/main/java/developerTagCount/JavaMongoSteamGamesReceiver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tagCount/GettingStarted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tagCount/TagCountGettingStarted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/publisherTagCount/GettingStarted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/publisherTagCount/PublisherTagGettingStarted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/developerTagCount/DeveloperGettingStarted.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="115" />
     <option name="y" value="30" />
     <option name="width" value="1680" />
@@ -312,7 +90,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -353,6 +130,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="developerTagCount" type="462c0819:PsiDirectoryNode" />
+              <item name="DeveloperGettingStarted.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="sparkStreaming-mongodb-steamTagCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkStreaming-mongodb-steamTagCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="publisherTagCount" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -362,7 +148,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="publisherTagCount" type="462c0819:PsiDirectoryNode" />
-              <item name="GettingStarted.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="PublisherTagGettingStarted.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="sparkStreaming-mongodb-steamTagCount" type="b2602c69:ProjectViewProjectNode" />
@@ -372,16 +158,26 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tagCount" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sparkStreaming-mongodb-steamTagCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sparkStreaming-mongodb-steamTagCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tagCount" type="462c0819:PsiDirectoryNode" />
+              <item name="TagCountGettingStarted.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570975031859" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570980550163" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -467,16 +263,17 @@
       <workItem from="1570759990612" duration="2221000" />
       <workItem from="1570807779689" duration="1421000" />
       <workItem from="1570972872664" duration="1724000" />
+      <workItem from="1570980473076" duration="513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8129000" />
+    <option name="totallyTimeSpent" value="8642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2272118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22989276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,7 +281,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -520,55 +317,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaRow.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/GettingStarted.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/JavaMongoSteamGamesReceiver.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/Row.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tagCount/JavaRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/JavaRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/Row.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/GettingStarted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="109" column="6" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/JavaRow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tagCount/GettingStarted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="87" column="33" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GettingStarted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -576,34 +324,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/GettingStarted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="112" column="6" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tagCount/JavaMongoSteamGamesReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/JavaMongoSteamGamesReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        <state relative-caret-position="561">
+          <caret line="80" column="1" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="80" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tagCount/JavaRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="24" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tagCount/TagCountGettingStarted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/JavaRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/Row.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/JavaMongoSteamGamesReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="101" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/publisherTagCount/PublisherTagGettingStarted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="148" column="6" selection-start-line="148" selection-start-column="6" selection-end-line="148" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/JavaMongoSteamGamesReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+        <state relative-caret-position="561">
+          <caret line="108" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/JavaRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/Row.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/developerTagCount/DeveloperGettingStarted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="252" selection-start-line="252" selection-end-line="252" />
         </state>
       </provider>
     </entry>

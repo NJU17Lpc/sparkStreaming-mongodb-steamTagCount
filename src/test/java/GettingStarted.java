@@ -7,7 +7,6 @@ import org.apache.spark.streaming.api.java.JavaDStream;
 import org.apache.spark.streaming.api.java.JavaPairDStream;
 import org.apache.spark.streaming.api.java.JavaReceiverInputDStream;
 import org.apache.spark.streaming.api.java.JavaStreamingContext;
-import tagCount.JavaMongoSteamGamesReceiver;
 import scala.Tuple2;
 
 import java.util.Arrays;
